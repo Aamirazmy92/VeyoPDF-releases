@@ -44,12 +44,7 @@ on Windows.
 VeyoPDF checks for a new version shortly after it starts, at most once a day. When there
 is one, a card appears in the corner: choose **Update**, then **Restart to install**. You
 can also click the refresh button in the title bar to check right away. Updates are signed
-and verified before they are installed, and they don't show the warnings above.
-
-## Verifying a download
-
-Each release lists its files; the `.sig` files are used by the app's updater and can be
-ignored.
+and verified before they are installed, and should not show the warnings above (only the first install does).
 
 ## Licence
 
