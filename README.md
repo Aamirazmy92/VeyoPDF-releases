@@ -13,18 +13,18 @@ and pick the file for your computer:
 
 | Your computer | Download |
 |---|---|
-| Windows 10 / 11 (64-bit) | `VeyoPDF_<version>_x64-setup.exe` (recommended) or the `.msi` |
+| Windows 10 / 11 (64-bit) | `VeyoPDF_<version>_x64_en-US.msi` (Windows installer package) |
 | Mac with Apple Silicon (M1 or newer), macOS 11+ | `VeyoPDF_<version>_aarch64.dmg` |
 
 Intel Macs and Linux are not supported yet.
 
 ## Installing on Windows
 
-1. Download and run `VeyoPDF_<version>_x64-setup.exe`.
+1. Download `VeyoPDF_<version>_x64_en-US.msi` and double-click it.
 2. Windows may show **"Windows protected your PC"**. VeyoPDF is a new app and is not yet
    signed with a paid publisher certificate, so SmartScreen does not know it. Click
    **More info**, then **Run anyway**.
-3. Follow the installer. VeyoPDF appears in the Start menu.
+3. Follow the installer; Windows asks for administrator approval because the package installs for everyone on the computer. VeyoPDF appears in the Start menu.
 
 ## Installing on Mac
 
